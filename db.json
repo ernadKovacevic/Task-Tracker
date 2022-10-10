@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Doctors Appointment",
       "day": "May 5th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "text": "Wash a car",
+      "day": "May 1. at 1:00 pm",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
