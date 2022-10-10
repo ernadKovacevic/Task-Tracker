@@ -7,10 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
   title: string = 'Task Tracker';
-  constructor() { }
+  
+  constructor( ) { }
 
   toggleAddTask(){
-
+    
   }
   ngOnInit(): void {
   }
